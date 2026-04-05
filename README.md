@@ -28,7 +28,7 @@ Travelinnee/
 ⚙️ Installation & Setup
 Clone the repository:
 Bash
-git clone https://github.com/your-username/travelinnee.git
+git clone https://github.com/visukutty/travelinnee.git
 Navigate to the project folder:
 Bash
 cd travelinnee
