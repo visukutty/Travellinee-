@@ -14,8 +14,6 @@ Clean and user-friendly interface for seamless navigation.
 Frontend: HTML, CSS, JavaScript
 Frameworks/Libraries: (Add if used – e.g., React, Bootstrap)
 AI Integration: (Specify API or model if used)
-📸 Screenshots
-(Add your project screenshots here)
 📂 Project Structure
 
 Travelinnee/
